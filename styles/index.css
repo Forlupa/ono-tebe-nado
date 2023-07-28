@@ -43,6 +43,7 @@
 @import url(../blocks/footer/__social-list/footer__social-list.css);
 @import url(../blocks/contacts/__item/contacts__item.css);
 @import url(../blocks/contacts/__item/_adress/contacts__item_adress.css);
+@import url(../blocks/contacts/__list/contacts__list.css);
 @import url(../blocks/contacts/contacts.css);
 @import url(../blocks/overlay/overlay.css);
 @import url(../blocks/footer/footer.css);
