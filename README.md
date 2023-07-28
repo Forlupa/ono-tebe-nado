@@ -16,4 +16,4 @@
 
 **О проекте:** статическая вёрстка по макету Figma
 
-[Вот ссылка](https://forlupa.github.io/ono-tebe-nado/)
+[Вот ссылка](https://github.com/Forlupa/ono-tebe-nado)
