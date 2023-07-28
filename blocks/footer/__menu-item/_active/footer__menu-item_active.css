@@ -1,0 +1,4 @@
+.footer__menu-item_active {
+  border-bottom: none;
+  list-style: none;
+}

@@ -1,0 +1,8 @@
+.header__menu-item {
+  list-style: circle;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  border-bottom: 1px solid black;
+}

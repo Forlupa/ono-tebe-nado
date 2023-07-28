@@ -1,0 +1,16 @@
+.about {
+  display: grid;
+  width: 100%;
+  padding: 0 50px 180px 50px;
+  grid-template-columns: 430px 1fr;
+  gap: 25px;
+}
+
+
+
+
+
+
+
+
+

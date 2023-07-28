@@ -1,0 +1,6 @@
+.footer__menu-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+}

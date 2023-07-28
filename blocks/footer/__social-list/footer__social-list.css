@@ -1,0 +1,7 @@
+.footer__social-list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  width: 240px;
+  justify-content: space-between;
+}
