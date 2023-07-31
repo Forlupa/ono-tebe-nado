@@ -4,4 +4,6 @@
   margin-top: 27px;
   list-style: none;
   margin-bottom: 30px;
+  gap: 25px;
+  flex-wrap: wrap;
 }

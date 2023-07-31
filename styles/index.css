@@ -26,6 +26,7 @@
 @import url(../blocks/card/_type/card_type_picture.css);
 @import url(../blocks/lots/lots.css);
 @import url(../blocks/lots/__card-list/lots__card-list.css);
+@import url(../blocks/lots/__card-list-item/lots__card-list-item.css);
 @import url(../blocks/lots/__heading/lots__heading.css);
 @import url(../blocks/lots/__look-more-link/lots__look-more-link.css);
 @import url(../blocks/about/about.css);
