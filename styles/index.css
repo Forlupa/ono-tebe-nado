@@ -14,8 +14,8 @@
 @import url(../blocks/cover/__description/cover__description.css);
 @import url(../blocks/cover/__letter-spacing-extended/cover__letter-spacing-extended.css);
 @import url(../blocks/cover/__no-letter-spacing/cover__no-letter-spacing.css);
-@import url(../blocks/cover/__text/cover__text_center.css);
-@import url(../blocks/cover/__text/cover__text_right.css);
+@import url(../blocks/cover/__text/_center/cover__text_center.css);
+@import url(../blocks/cover/__text/_right/cover__text_right.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/card-link/card-link.css);
 @import url(../blocks/card/card.css);

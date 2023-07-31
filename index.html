@@ -12,19 +12,18 @@
     <header class="header">
       <nav class="header__menu">
         <ul class="header__menu-box">
-          <li class="header__menu-item header__menu-item_active">главная</li>
-          <li class="header__menu-item">посмотреть лоты</li>
-          <li class="header__menu-item">об аукционе</li>
+          <a class="header__menu-item header__menu-item_active" href="#"><li>главная</li></a>
+          <a class="header__menu-item" href="#"><li>посмотреть лоты</li></a>
+          <a href="#" class="header__menu-item"><li >об аукционе</li></a>
         </ul>
       </nav>
-      <a href="#">
+      <a class="header__logo" href="#">
         <img
-          class="header__logo"
-          src="/images/logo-black.svg"
+          src="./images/logo-black.svg"
           alt="логотип аукциона"
         >
       </a>
-      <nav class="contacts">
+      <address class="contacts">
         <ul class="contacts__list">
           <li>
             <a href="tel:+99995555555" class="contacts__item"
@@ -37,12 +36,12 @@
             >
           </li>
           <li>
-            <address class="contacts__item contacts__item_adress">
+            <p class="contacts__item contacts__item_adress">
               наб. Принсенграхт 263-265, Амстердам
-            </address>
+            </p>
           </li>
         </ul>
-      </nav>
+      </address>
     </header>
     <main class="main">
       <section class="cover">
@@ -65,7 +64,7 @@
           <p class="cover__description-text">
             Аукцион вещей, в которые никто не верил
           </p>
-          <button class="cover__button">сделать ставку</button>
+          <button type="button" class="cover__button">сделать ставку</button>
         </div>
       </section>
       <section class="lots">
@@ -157,7 +156,7 @@
       </section>
     </main>
     <footer class="footer">
-      <nav class="contacts">
+      <address class="contacts">
         <ul class="contacts__list">
           <li>
             <a href="tel:+99995555555" class="contacts__item"
@@ -170,17 +169,17 @@
             >
           </li>
           <li>
-            <address class="contacts__item contacts__item_adress">
+            <p class="contacts__item contacts__item_adress">
               наб. Принсенграхт 263-265, Амстердам
-            </address>
+            </p>
           </li>
         </ul>
-      </nav>
+      </address>
       <nav class="footer__menu">
         <ul class="footer__menu-box">
-          <li class="footer__menu-item footer__menu-item_active">главная</li>
-          <li class="footer__menu-item">посмотреть лоты</li>
-          <li class="footer__menu-item">об аукционе</li>
+          <a class="footer__menu-item footer__menu-item_active" href="#"><li>главная</li></a>
+          <a class="footer__menu-item" href="#"><li>посмотреть лоты</li></a>
+          <a href="#" class="footer__menu-item"><li >об аукционе</li></a>
         </ul>
       </nav>
       <ul class="footer__social-list">

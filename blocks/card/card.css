@@ -6,7 +6,9 @@
   height: 100%;
   padding: 50px 40px;
   width: 430px;
+  height: 450px;
   color: white;
+  background: no-repeat center/contain;
 }
 
 
